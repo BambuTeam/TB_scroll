@@ -1,0 +1,56 @@
+
+
+
+#title_screen1{
+
+    position: absolute;
+    text-align: center;
+    margin-top: 20%;
+    z-index: 99999999;
+
+    h1{
+
+        font-family: TBWA_font;
+        letter-spacing: -2px;
+        color: #fefefe;
+        font-weight: 900;
+        font-size: 96px;
+        text-shadow: none;
+        letter-spacing: -3px;
+        text-shadow: 2px 2px 2px #f1c830;
+
+
+
+
+    }
+
+
+    h3{
+        
+        font-family: TBWA_font;
+        letter-spacing: -2px;
+        color: #f1c830;
+        font-weight: 500;
+        font-size: 56px;
+        margin: 0 0 0px;
+        text-shadow: none;
+        text-shadow: 2px 2px 2px #1a1a1a
+        
+    }
+
+    
+}
+
+#landing-screen1 {
+    background-image: url("../media/people.png");
+    height: 100vh;
+    width: 100vw;
+    
+    
+    filter: #f1c830;
+    
+    
+}
+
+
+
